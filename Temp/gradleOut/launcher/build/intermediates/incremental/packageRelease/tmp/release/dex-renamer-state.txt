@@ -1,0 +1,4 @@
+#Fri Aug 27 22:50:36 WAT 2021
+base.0=C\:\\Users\\alabi\\Documents\\Create_With_Code\\Prototype 1\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
